@@ -9,7 +9,7 @@ async function bootstrap() {
 
   const config = new DocumentBuilder()
   .setTitle('Blog API')
-  .setDescription('The cats API description')
+  .setDescription('The blog API description')
   .setVersion('1.0')
   .addTag('Blog')
   .build();
